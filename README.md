@@ -47,3 +47,6 @@ mvn verify
   "moyenne": 14.5
 }
 ```
+git add README.md
+git commit-m "test: declenchement webhook CI"
+git push origin main
